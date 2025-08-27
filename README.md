@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nelly Sagarra (ne11y3d)
+# 👋 Hi, I'm Nelly (ne11y3d)
 
 **Location:** Miami, FL  
 **Focus:** Cybersecurity | AI Automation | 3D Visualization
