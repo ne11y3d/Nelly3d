@@ -39,7 +39,6 @@ I’m a hands-on cybersecurity enthusiast with a passion for both **red team** a
 ### 📚 Education & Certifications
 
 - **Certified Ethical Hacker (CEH) Course** — Academy of Florida, 2024
-- **CompTIA Security+** — In Progress
 - **B.Sc. in Animation & Visual Effects** — LA Film School, 2018
 
 ---
